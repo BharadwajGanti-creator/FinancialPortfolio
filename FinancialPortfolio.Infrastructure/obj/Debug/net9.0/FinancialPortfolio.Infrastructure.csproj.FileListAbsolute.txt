@@ -1,0 +1,15 @@
+D:\Upskilling_For_Full_Time\FinancialPortfolio\FinancialPortfolio.Infrastructure\bin\Debug\net9.0\FinancialPortfolio.Infrastructure.deps.json
+D:\Upskilling_For_Full_Time\FinancialPortfolio\FinancialPortfolio.Infrastructure\bin\Debug\net9.0\FinancialPortfolio.Infrastructure.dll
+D:\Upskilling_For_Full_Time\FinancialPortfolio\FinancialPortfolio.Infrastructure\bin\Debug\net9.0\FinancialPortfolio.Infrastructure.pdb
+D:\Upskilling_For_Full_Time\FinancialPortfolio\FinancialPortfolio.Infrastructure\bin\Debug\net9.0\FinancialPortfolio.Domain.dll
+D:\Upskilling_For_Full_Time\FinancialPortfolio\FinancialPortfolio.Infrastructure\bin\Debug\net9.0\FinancialPortfolio.Domain.pdb
+D:\Upskilling_For_Full_Time\FinancialPortfolio\FinancialPortfolio.Infrastructure\obj\Debug\net9.0\FinancialPortfolio.Infrastructure.csproj.AssemblyReference.cache
+D:\Upskilling_For_Full_Time\FinancialPortfolio\FinancialPortfolio.Infrastructure\obj\Debug\net9.0\FinancialPortfolio.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Upskilling_For_Full_Time\FinancialPortfolio\FinancialPortfolio.Infrastructure\obj\Debug\net9.0\FinancialPortfolio.Infrastructure.AssemblyInfoInputs.cache
+D:\Upskilling_For_Full_Time\FinancialPortfolio\FinancialPortfolio.Infrastructure\obj\Debug\net9.0\FinancialPortfolio.Infrastructure.AssemblyInfo.cs
+D:\Upskilling_For_Full_Time\FinancialPortfolio\FinancialPortfolio.Infrastructure\obj\Debug\net9.0\FinancialPortfolio.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Upskilling_For_Full_Time\FinancialPortfolio\FinancialPortfolio.Infrastructure\obj\Debug\net9.0\Financia.502A4276.Up2Date
+D:\Upskilling_For_Full_Time\FinancialPortfolio\FinancialPortfolio.Infrastructure\obj\Debug\net9.0\FinancialPortfolio.Infrastructure.dll
+D:\Upskilling_For_Full_Time\FinancialPortfolio\FinancialPortfolio.Infrastructure\obj\Debug\net9.0\refint\FinancialPortfolio.Infrastructure.dll
+D:\Upskilling_For_Full_Time\FinancialPortfolio\FinancialPortfolio.Infrastructure\obj\Debug\net9.0\FinancialPortfolio.Infrastructure.pdb
+D:\Upskilling_For_Full_Time\FinancialPortfolio\FinancialPortfolio.Infrastructure\obj\Debug\net9.0\ref\FinancialPortfolio.Infrastructure.dll

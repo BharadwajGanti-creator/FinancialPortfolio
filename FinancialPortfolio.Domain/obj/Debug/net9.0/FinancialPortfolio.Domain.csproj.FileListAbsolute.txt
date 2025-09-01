@@ -1,0 +1,11 @@
+D:\Upskilling_For_Full_Time\FinancialPortfolio\FinancialPortfolio.Domain\bin\Debug\net9.0\FinancialPortfolio.Domain.deps.json
+D:\Upskilling_For_Full_Time\FinancialPortfolio\FinancialPortfolio.Domain\bin\Debug\net9.0\FinancialPortfolio.Domain.dll
+D:\Upskilling_For_Full_Time\FinancialPortfolio\FinancialPortfolio.Domain\bin\Debug\net9.0\FinancialPortfolio.Domain.pdb
+D:\Upskilling_For_Full_Time\FinancialPortfolio\FinancialPortfolio.Domain\obj\Debug\net9.0\FinancialPortfolio.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Upskilling_For_Full_Time\FinancialPortfolio\FinancialPortfolio.Domain\obj\Debug\net9.0\FinancialPortfolio.Domain.AssemblyInfoInputs.cache
+D:\Upskilling_For_Full_Time\FinancialPortfolio\FinancialPortfolio.Domain\obj\Debug\net9.0\FinancialPortfolio.Domain.AssemblyInfo.cs
+D:\Upskilling_For_Full_Time\FinancialPortfolio\FinancialPortfolio.Domain\obj\Debug\net9.0\FinancialPortfolio.Domain.csproj.CoreCompileInputs.cache
+D:\Upskilling_For_Full_Time\FinancialPortfolio\FinancialPortfolio.Domain\obj\Debug\net9.0\FinancialPortfolio.Domain.dll
+D:\Upskilling_For_Full_Time\FinancialPortfolio\FinancialPortfolio.Domain\obj\Debug\net9.0\refint\FinancialPortfolio.Domain.dll
+D:\Upskilling_For_Full_Time\FinancialPortfolio\FinancialPortfolio.Domain\obj\Debug\net9.0\FinancialPortfolio.Domain.pdb
+D:\Upskilling_For_Full_Time\FinancialPortfolio\FinancialPortfolio.Domain\obj\Debug\net9.0\ref\FinancialPortfolio.Domain.dll
